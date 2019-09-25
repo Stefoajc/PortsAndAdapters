@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Ports\Drivers\Idempotent\" />
+    <Folder Include="Ports\Drivers\StateChanging\" />
+  </ItemGroup>
+
+</Project>
